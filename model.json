@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "frog dance",
+            "invocationName": "fizz buzz",
             "modelConfiguration": {
                 "fallbackIntentSensitivity": {
                     "level": "LOW"
